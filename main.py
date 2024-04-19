@@ -10,7 +10,7 @@ PAYMENT_CHANNEL = "@tronpaymenthh" #add payment channel here including the '@' s
 OWNER_ID = 316683969 #write owner's user id here.. get it from @MissRose_Bot by /id
 CHANNELS = ["@tronpaymenthh"] #add channels to be checked here in the format - ["Channel 1", "Channel 2"] 
               #you can add as many channels here and also add the '@' sign before channel username
-Daily_bonus = 0.0.1 #Put daily bonus amount here!
+Daily_bonus = 0.5 #Put daily bonus amount here!
 Mini_Withdraw = 0.6  #remove 0 and add the minimum withdraw u want to set
 Per_Refer = 0.01 #add per refer bonus here
 
